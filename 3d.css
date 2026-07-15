@@ -1,0 +1,15 @@
+import "./App.css";
+function App() {
+  return(
+    <div className="container">
+      <h1>Student Dashboard</h1>
+      <hr/>
+      <p>Name : Suyash Karnale</p>
+      <p>Roll Number : 101</p>
+      <p>Course : MCA</p>
+      <p>Semester : III</p>
+      <button>View Result</button>
+    </div>
+  );
+}
+export default App;
